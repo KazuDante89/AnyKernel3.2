@@ -1,0 +1,5 @@
+id=sdm660_power_hal_support
+name=[EAS]Zeus-Kernel EAS Support
+version=v0.1
+Credits to =Ratoriku & uvera
+description=Fixes qcom power HAL failing with EAS.
